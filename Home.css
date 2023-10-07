@@ -1,0 +1,179 @@
+ .body{
+  margin: 0px;
+  padding: 0px;
+ }
+ .u-section-1 {
+  min-height: 670px;
+}
+.header{
+  height: 25px;
+ background-color : #292928;
+ opacity: 0.9;
+  width: 100%;
+
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 670px;
+  background-image: url("pexels-photo-3894538.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.birthday {
+  text-align: center;
+  margin-top: 0;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0rem;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  color: rgba(231, 228, 238, 0);
+}
+.wish {
+  text-align: center;
+  margin-top: 0;
+  font-weight: 550;
+  text-transform: uppercase;
+  font-size: orem;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  color: rgba(252, 245, 245, 0);
+}
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-weight: 700;
+  margin: 20px 40px 0 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+
+@media  (max-width: 1199px)  {
+   .u-section-1 {
+    min-height: 325px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+  
+
+  .u-section-1 .u-image-1 {
+    min-height: 552px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 183px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 423px;
+  }
+
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1000px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 952px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2;
+    color: black;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 402px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.section{
+  padding: 0px;
+  margin: 0%;
+}
+  .u-section-1 .u-container-layout-2 {
+    padding : 0px;
+    margin: 0px;
+
+}
+.u-section-1 .u-container-layout-1 {
+    padding : 0px;
+    margin: 0px;
+
+}
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding: 0px;
+  }
+  .birthday {
+    text-align: center;
+    margin-top: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    color: rgb(8, 1, 26);
+  }
+  .wish {
+    text-align: center;
+    margin-top: 0;
+    font-weight: 550;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    color: rgb(37, 3, 3);
+  }
+.u-section-1 .u-image-1 {
+  min-height: 599px;
+  background-position: 50% 100%;
+  padding: 0px;
+  margin: 0px;
+}
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    color: black;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 320px;
+  }
+  }
+
